@@ -1,0 +1,25 @@
+{
+  "name": "arcountydata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toadead/arcountydata.git"
+  },
+  "author": "Andrew Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toadead/arcountydata/issues"
+  },
+  "homepage": "https://github.com/toadead/arcountydata#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "chromedriver": "^2.37.0",
+    "lodash": "^4.17.5",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
